@@ -1,0 +1,35 @@
+  {
+                   "title": "Zebra 16mm Film",
+                    "category": "Film",
+                   "photo": "https://raw.githubusercontent.com/deleteandescape/clase-8/main/zebra.jpg",
+                    "description": "Analog film portrait of table tennis event in the club 'zebra', June 2025, course: '16mm'",
+                   "rating": "5/5"
+                },
+                {
+                    "title": "Drag Music Video",
+                    "category": "Film",
+                    "photo": "https://raw.githubusercontent.com/deleteandescape/clase-8/main/drag.jpg",
+                    "description": "Music video of drag artists, June 2025, course: 'short cuts'",
+                    "rating": "1/5"
+                },
+                {
+                    "title": "ACFL - Das Kind",
+                    "category": "Film",
+                    "photo": "https://raw.githubusercontent.com/deleteandescape/clase-8/main/zahn.jpg",
+                   "description": "Editing of a horror web series episode, February 2025, course: 'Film composing'",
+                   "rating": "2/5"
+                },
+                {
+                    "title": "En Marte - Summer collection",
+                    "category": "Photography",
+                   "photo": "https://raw.githubusercontent.com/deleteandescape/clase-8/main/enmarte.jpg",
+                    "description": "Editorial Fashion Photography, July 2024",
+                   "rating": "4/5"
+                },
+                {
+                    "title": "Pool People",
+                    "category": "Photography",
+                   "photo": "https://raw.githubusercontent.com/deleteandescape/clase-8/main/pool.jpg",
+                    "description": "Photography project, June 2024",
+                    "rating": "3/5"
+                }
